@@ -1,4 +1,4 @@
-# tstun
+# TSTUN / STUNT / TCP-STUN
 tcp session traversal utilities for NAT
 
 example usage:
